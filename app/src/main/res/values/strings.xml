@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HarbourSpace</string>
+    <string name="image_description">Camden Market,UK</string>
+    <string name="Person_name">Nawal AlMaawali</string>
+    <string name="Camera">Camera</string>
+    <string name="Aperture">Aperture</string>
+    <string name="Focal_length">Focal Length</string>
+    <string name="Shutter_speed">Shutter Speed</string>
+    <string name="ISO">ISO</string>
+    <string name="Dimensions">Dimensions</string>
+    <string name="Dimensions_N">3906 x 4882</string>
+    <string name="Camera_N">Nikon D3200</string>
+    <string name="Aperture_N">f/50</string>
+    <string name="Focal_length_N">180mm</string>
+    <string name="Shutter_speed_N">1/125s</string>
+    <string name="ISO_N">100</string>
+    <string name="Views">Views</string>
+    <string name="Views_N">8.8M</string>
+    <string name="Downloads">Downloads</string>
+    <string name="Downloads_N">99.1k</string>
+    <string name="Likes">Likes</string>
+    <string name="Likes_N">1.8k</string>
+    <string name="City">Camden</string>
+    <string name="Country">UK</string>
+
+
+
+</resources>
