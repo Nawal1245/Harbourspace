@@ -14,12 +14,13 @@
         android:layout_height="200dp">
 
         <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:contentDescription="@string/image_description"
-            android:scaleType="centerCrop"
-            app:srcCompat="@drawable/camden" />
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:contentDescription="@string/image_description"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/camden" />
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"

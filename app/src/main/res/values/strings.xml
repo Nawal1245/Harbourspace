@@ -22,6 +22,10 @@
     <string name="Likes_N">1.8k</string>
     <string name="City">Camden</string>
     <string name="Country">UK</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="main_item_clicked">You\'ve clicked on: %d</string>
+    <string name="main_unable_to_fetch_images">Unable to fetch images at this moment.</string>
+    <string name="about_text">This is a showcase app using Jetpack Compose with the Unsplash API</string>
 
 
 
